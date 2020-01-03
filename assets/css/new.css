@@ -1,0 +1,31 @@
+.slide_lists{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+.slide_lists li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	border:2px solid #2c57e4;
+	margin:0 10px;
+}
+.activeLi{
+	background: #2c57e4;
+}
+
+.value{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+.value li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	border:2px solid #2c57e4;
+	margin:0 10px;
+}
+.activeLi2{
+	background: #2c57e4;
+}
